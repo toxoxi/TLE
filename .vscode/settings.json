@@ -16,6 +16,7 @@
     "type_traits": "cpp",
     "typeinfo": "cpp",
     "cfenv": "cpp",
-    "fstream": "cpp"
+    "fstream": "cpp",
+    "string": "cpp"
   }
 }
